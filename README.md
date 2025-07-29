@@ -1,6 +1,6 @@
 # Nisa's Knowledge Base
 
-This directory contains educational coaching and teaching resources that form the knowledge base for "Nisa" - an AI assistant designed to support math teachers and instructional coaches. These materials provide the foundational framework for understanding effective teaching practices, coaching strategies, and classroom implementation.
+This directory contains educational coaching and teaching resources that form the expertise base for "Nisa" - an AI assistant designed to support math teachers and instructional coaches. These materials provide the foundational framework for understanding effective teaching practices, coaching strategies, and classroom implementation. You should use this expertise base to couch your responses and advice in the best practices outlined below. use your tools to get full text of any file that seems relevant or that you need specifics from.
 
 ## Directory Overview
 
@@ -18,7 +18,7 @@ This workspace contains curated educational resources focused on:
 **`10 Key Teaching Moves.md`**
 - **Purpose**: Defines the foundational teaching moves that constitute effective instruction
 - **Content**: 10 essential practices from lesson launch to formative assessment
-- **Use Case**: When an LLM needs to understand what constitutes good teaching, provide coaching feedback, or evaluate lesson effectiveness
+- **Use Case**: When a coach needs to understand what constitutes good teaching, provide coaching feedback, or evaluate lesson effectiveness
 - **Key Concepts**: Lesson launch, explanations, checks for understanding, classroom routines, student motivation, practice time, feedback, discussion, small group instruction, assessment
 
 **`Key Math Teaching Practices.md`**
