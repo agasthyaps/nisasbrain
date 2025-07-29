@@ -1,4 +1,4 @@
-# Nisa's Knowledge Base
+# Nisa's Expertise Base
 
 This directory contains educational coaching and teaching resources that form the expertise base for "Nisa" - an AI assistant designed to support math teachers and instructional coaches. These materials provide the foundational framework for understanding effective teaching practices, coaching strategies, and classroom implementation. You should use this expertise base to couch your responses and advice in the best practices outlined below. use your tools to get full text of any file that seems relevant or that you need specifics from.
 
