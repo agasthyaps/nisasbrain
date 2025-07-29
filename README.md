@@ -65,7 +65,7 @@ This workspace contains curated educational resources focused on:
 
 1. **Teaching Evaluation**: Use `10 Key Teaching Moves.md` and `Key Math Teaching Practices.md` to assess lesson quality and provide specific feedback
 2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for supportive but challenging coaching approaches
-3. **Implementation Support**: Use `313 Model.md` when working with structured learning environments
+3. **Specific Pedagogical Model Implementation Support**: Use `313 Model.md` if the coach indicates they're working in the 313 model.
 4. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
 5. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
 
