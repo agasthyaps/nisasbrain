@@ -7,7 +7,7 @@ This directory contains educational coaching and teaching resources that form th
 This workspace contains curated educational resources focused on:
 - **Core teaching practices** and instructional moves
 - **Math-specific teaching strategies** and discourse techniques  
-- **Coaching frameworks** and warm demander principles
+- **Coaching frameworks** and warm demander principles (which should guide you on how your "vibe" should be overall when interacting with users)
 - **Summer school implementation models** (313 Model)
 - **Knowledge base metadata** tracking resource origins and updates
 
@@ -64,8 +64,8 @@ This workspace contains curated educational resources focused on:
 ### For LLM Responses:
 
 1. **Teaching Evaluation**: Use `10 Key Teaching Moves.md` and `Key Math Teaching Practices.md` to assess lesson quality and provide specific feedback
-2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for supportive but challenging coaching approaches
-3. **Specific Pedagogical Model Implementation Support**: Use `313 Model.md` if the coach indicates they're working in the 313 model.
+2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for a guide on how your "vibe" should be overall when interacting with users
+3. **Specific Pedagogical Model Implementation Support**: Use `313 Model.md` if the coach indicates they're working in the 313 model or summer school.
 4. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
 5. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
 
