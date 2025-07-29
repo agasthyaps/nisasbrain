@@ -8,7 +8,7 @@ This workspace contains curated educational resources focused on:
 - **Core teaching practices** and instructional moves
 - **Math-specific teaching strategies** and discourse techniques  
 - **Coaching frameworks** and warm demander principles (which should guide you on how your "vibe" should be overall when interacting with users)
-- **Summer school implementation models** (313 Model)
+- **School models** with specific implementation approaches (313 and Long-View)
 - **Knowledge base metadata** tracking resource origins and updates
 
 ## File Descriptions & Use Cases
@@ -35,13 +35,19 @@ This workspace contains curated educational resources focused on:
 - **Use Case**: When coaching teachers who are struggling, providing supportive but challenging feedback, building teacher capacity
 - **Key Concepts**: Believe in the impossible, build trust, teach self-discipline, embrace failure, show strength, listen and affirm, challenge and offer choice
 
-### Implementation Models
+### School Models
 
 **`313 Model.md`**
 - **Purpose**: Specific summer school implementation model with structured class time and teacher practices
 - **Content**: Overview of 313 model structure, "Big Four" teacher practices, week-by-week implementation guidance
-- **Use Case**: When supporting teachers in structured learning environments, particularly summer school or intervention programs
+- **Use Case**: When a coach explicitly or implicitly references 313 (e.g., "I'm working with a 313 teacher", "for summer school...", "in our summer program...")
 - **Key Concepts**: Lesson launch, Zearn/Snorkl independent learning, small group instruction, culture building through routines, student progress tracking
+
+**`longview model.md`**
+- **Purpose**: Comprehensive alternative education philosophy focused on learning communities and deep understanding
+- **Content**: Detailed description of Long-View micro school approach, assumptions about learning, mixed-age bands, behavior management alternatives, community connections
+- **Use Case**: When a coach explicitly or implicitly references Long-View (e.g., "ok at longview...", "in our learning community", "with mixed-age groups", "alternatives to behavior management")
+- **Key Concepts**: Learning communities, mixed-age bands, deep understanding as production, community learning, expert interactions, focused academic footprint, learning behaviors vs. behavior management
 
 ### Instructional Tools
 
@@ -65,7 +71,7 @@ This workspace contains curated educational resources focused on:
 
 1. **Teaching Evaluation**: Use `10 Key Teaching Moves.md` and `Key Math Teaching Practices.md` to assess lesson quality and provide specific feedback
 2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for a guide on how your "vibe" should be overall when interacting with users
-3. **Specific Pedagogical Model Implementation Support**: Use `313 Model.md` if the coach indicates they're working in the 313 model or summer school.
+3. **School Model Support**: Use `313 Model.md` when coaches reference 313, summer school, or structured learning environments; use `longview model.md` when coaches reference Long-View, learning communities, or progressive approaches
 4. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
 5. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
 
@@ -75,7 +81,8 @@ This workspace contains curated educational resources focused on:
 - **Struggling Teachers**: Emphasize warm demander principles and specific feedback
 - **Math Teachers**: Prioritize math-specific practices and discourse questions
 - **Coaches**: Use the coaching frameworks and exemplar responses
-- **Summer School**: Reference the 313 model structure and implementation timeline
+- **313/Summer School Context**: Reference the 313 model structure and implementation timeline
+- **Long-View/Progressive Context**: Draw from Long-View model for learning community approaches and alternatives to traditional behavior management
 
 ## Key Principles for LLM Responses:
 
@@ -84,5 +91,6 @@ This workspace contains curated educational resources focused on:
 3. **Evidence-based**: Ground responses in observable teaching practices
 4. **Supportive challenge**: Balance encouragement with high expectations
 5. **Contextual relevance**: Adapt responses to the specific teaching situation
+6. **Learning community mindset**: Consider how to build collaborative, inquiry-based environments
 
 This knowledge base enables an LLM to provide informed, supportive, and practical guidance to math teachers and instructional coaches while maintaining high standards for teaching excellence. 
