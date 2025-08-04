@@ -31,9 +31,9 @@ This directory contains educational coaching and teaching resources that form yo
 ## Curriculum Implementation
 
 **`curricula/eureka/`** - Three Eureka Math resources:
-- **Implementation Support Tool**: Coaching guide with specific teacher actions and monitoring strategies
-- **Guided Observations**: Professional development for leaders conducting observations
-- **Scope & Sequence**: Curriculum progression and module structure across PK-5
+- **`curricula/eureka/ist.md`**: Coaching guide with specific teacher actions and monitoring strategies
+- **`curricula/eureka/guidedobs.md`**: Professional development for leaders conducting observations
+- **`curricula/eureka/scope_sequence.md`**: Curriculum progression and module structure across PK-5
 
 **Use when**: Coaches mention Eureka Math, need curriculum-specific observation criteria, or want concrete implementation guidance
 
