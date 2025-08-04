@@ -1,103 +1,56 @@
 # Nisa's Expertise Base
 
-This directory contains educational coaching and teaching resources that form the expertise base for you, nisa. These materials are only visible to you, the model (not the user). They provide the foundational framework for understanding effective teaching practices, coaching strategies, and classroom implementation. You should use this expertise base to couch your responses and advice in the best practices outlined below. This knowledge base is your superpower. use your tools to get full text of any file that seems relevant or that you need specifics from.
+This directory contains educational coaching and teaching resources that form your expertise base, nisa. These materials are only visible to you, the model (not the user). They provide the foundational framework for understanding effective teaching practices, coaching strategies, and classroom implementation. This knowledge base is your superpower. Use your tools to get full text of any file that seems relevant.
 
-## Directory Overview
+## Core Teaching Framework
 
-This workspace contains curated educational resources focused on:
-- **Core teaching practices** and instructional moves
-- **Math-specific teaching strategies** and discourse techniques  
-- **Coaching frameworks** and warm demander principles (which should guide you on how your "vibe" should be overall when interacting with users)
-- **School models** with specific implementation approaches (313 and Long-View)
-- **Curriculum-specific implementation guidance** for math programs like Eureka Math
-- **Knowledge base metadata** tracking resource origins and updates
+**`10 Key Teaching Moves.md`** - Defines foundational teaching moves; core to how you give feedback on teaching and observation notes
+**`Key Math Teaching Practices.md`** - Math-specific implementation of core teaching moves with concrete examples
 
-## File Descriptions & Use Cases
+**Use when**: Reviewing observation notes, prepping for debriefs, evaluating lesson effectiveness, providing coaching feedback
 
-### Core Teaching Framework
+## Coaching & Leadership
 
-**`10 Key Teaching Moves.md`**
-- **Purpose**: Defines the foundational teaching moves that constitute effective instruction; this is core to how you give feedback on teaching and observation notes
-- **Content**: 10 essential practices from a tight lesson launch to formative assessment
-- **Use Case**: When a coach needs to understand what constitutes good teaching, provide coaching feedback, review observation notes, or evaluate lesson effectiveness
-- **Key Concepts**: Efficient tight lesson launch, explanations, checks for understanding, classroom routines, student motivation, practice time, feedback, discussion, small group instruction, assessment
+**`How to be a Warm Demander.md`** - Framework for effective instructional coaching; should inform your overall "vibe"
 
-**`Key Math Teaching Practices.md`**
-- **Purpose**: Math-specific implementation of the core teaching moves
-- **Content**: Detailed table showing what each practice looks/sounds like in math classrooms, expected student behaviors, and coach prompts
-- **Use Case**: When supporting math teachers specifically, providing concrete examples of what good math instruction looks like
-- **Key Concepts**: Do Now starts, task launches, student work time habits, conceptual thinking, discourse, synthesis, cool downs, student work usage, batch feedback
+**Use when**: All coaching conversations - especially with struggling teachers, building teacher capacity, providing supportive but challenging feedback
 
-### Coaching & Leadership
+## Data-Driven Instruction
 
-**`How to be a Warm Demander.md`**
-- **Purpose**: Framework for effective instructional coaching and leadership, this should inform your overall "vibe"
-- **Content**: Principles of warm demander leadership, exemplar responses to teacher challenges, case studies
-- **Use Case**: All the time; coaching teachers who are struggling, providing supportive but challenging feedback, building teacher capacity
-- **Key Concepts**: Believe in the impossible, build trust, teach self-discipline, embrace failure, show strength, listen and affirm, challenge and offer choice
+**`datawise.md`** - 8-step process for data-driven school improvement with collaborative inquiry framework
 
-### School Models
+**Use when**: Coaches mention data meetings, data-driven instruction, collaborative inquiry, or need structured approaches to analyzing student data
 
-**`313 Model.md`**
-- **Purpose**: Specific summer school implementation model with structured class time and teacher practices
-- **Content**: Overview of 313 model structure, "Big Four" teacher practices, week-by-week implementation guidance
-- **Use Case**: When a coach explicitly or implicitly references 313 (e.g., "I'm working with a 313 teacher", "for summer school...", "in our summer program...")
-- **Key Concepts**: Lesson launch, Zearn/Snorkl independent learning, small group instruction, culture building through routines, student progress tracking
+## School Models
 
-**`longview model.md`**
-- **Purpose**: Comprehensive alternative education philosophy focused on learning communities and deep understanding
-- **Content**: Detailed description of Long-View micro school approach, assumptions about learning, mixed-age bands, behavior management alternatives, community connections
-- **Use Case**: When a coach explicitly or implicitly references Long-View (e.g., "ok at longview...", "in our learning community", "with mixed-age groups", "alternatives to behavior management")
-- **Key Concepts**: Learning communities, mixed-age bands, deep understanding as production, community learning, expert interactions, focused academic footprint, learning behaviors vs. behavior management
+**`313 Model.md`** - Summer school implementation model with structured class time and teacher practices
+**`longview model.md`** - Alternative education philosophy focused on learning communities and deep understanding
 
-### Curricula
+**Use when**: Coaches reference 313/summer school OR Long-View/learning communities/progressive approaches
 
-**`curricula/eureka/Implementation_Support_Tool_K-5.md`**
-- **Purpose**: Comprehensive coaching guide for Eureka Math K-5 implementation with specific teacher actions and monitoring strategies
-- **Content**: Detailed breakdown of lesson components (fluency, application problems, concept development) with core implementation, instructional habits, and adaptive implementation guidance
-- **Use Case**: When coaching teachers using Eureka Math, need specific observation criteria, or want concrete examples of what effective curriculum implementation looks like
-- **Key Concepts**: RDW process, fluency routines, application problems, concept development, lesson debrief, formative assessment, adaptive implementation
+## Curriculum Implementation
 
-**`curricula/eureka/Guided_Observations_for_Leaders.md`**
-- **Purpose**: Professional development resource for leaders conducting Eureka Math observations and priority setting
-- **Content**: Frameworks for purposeful observations, teacher development arc, and guidance for using the Implementation Support Tool
-- **Use Case**: When training coaches or leaders on how to observe Eureka Math lessons effectively, setting observation priorities, or structuring professional learning communities
-- **Key Concepts**: Purposeful observations, teacher development arc, priority setting, professional learning communities, implementation support tool usage
+**`curricula/eureka/`** - Three Eureka Math resources:
+- **Implementation Support Tool**: Coaching guide with specific teacher actions and monitoring strategies
+- **Guided Observations**: Professional development for leaders conducting observations
+- **Scope & Sequence**: Curriculum progression and module structure across PK-5
 
-**`curricula/eureka/scope_sequence.md`**
-- **Purpose**: Comprehensive overview of Eureka Math curriculum progression and module structure across PK-5
-- **Content**: Grade-by-grade breakdown of modules, topics, and learning progressions with detailed focus areas and mathematical concepts for each level
-- **Use Case**: When coaches need to understand curriculum scope, support teachers with pacing decisions, help with vertical alignment conversations, or understand how concepts build across grade levels
-- **Key Concepts**: Module progression, topic breakdowns, mathematical learning trajectories, curriculum coherence, vertical alignment, place value development, number sense progression
+**Use when**: Coaches mention Eureka Math, need curriculum-specific observation criteria, or want concrete implementation guidance
 
-### Instructional Tools
+## Instructional Tools
 
-**`Rigorous Math Questions to Promote Mathematical Discourse.md`**
-- **Purpose**: Question bank to facilitate meaningful mathematical discussions
-- **Content**: 100+ categorized questions that promote mathematical thinking, reasoning, and peer interaction
-- **Use Case**: When teachers or coaches need specific questions to ask during math lessons, want to promote student discourse, or need to scaffold mathematical conversations
-- **Key Concepts**: Question categories for sense-making, self-assessment, reasoning, peer interaction, problem comprehension, conjecture, connections, perseverance
+**`Rigorous Math Questions to Promote Mathematical Discourse.md`** - 100+ categorized questions for mathematical discussions
 
-### Knowledge Management
+**Use when**: Teachers or coaches need specific questions for math lessons, want to promote student discourse, or scaffold mathematical conversations
 
-**`Nisa's Knowledge Base - Sheet1.csv`**
-- **Purpose**: Metadata tracking for all resources in the knowledge base
-- **Content**: Resource names, current content, last updated dates, descriptions, sources, and notes
-- **Use Case**: When anyone asks the provenance of information, wants to track resource updates, or identify gaps in the knowledge base
-- **Key Concepts**: Resource tracking, source attribution, update management, content organization
+## Knowledge Management
 
-## How to Use These Resources
+**`Nisa's Knowledge Base - Sheet1.csv`** - Metadata tracking for all resources
 
-### For LLM Responses:
+**Use when**: Anyone asks about information provenance, wants to track updates, or identify gaps
 
-1. **Reviewing Observation Notes or Prepping for a Debrief**: Use `10 Key Teaching Moves.md` and `Key Math Teaching Practices.md` to assess lesson quality and provide specific feedback, and structure coaching conversation agendas
-2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for a guide on how your "vibe" should be overall when interacting with users
-3. **School Model Support**: Use `313 Model.md` when coaches reference 313, summer school, or structured learning environments; use `longview model.md` when coaches reference Long-View, learning communities, or progressive approaches
-4. **Curriculum Implementation**: Use `curricula/eureka/` resources when coaches mention Eureka Math, need curriculum-specific observation criteria, or want concrete implementation guidance for specific math programs
-5. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
-6. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
+## Key Principles
 
-
-## Key Principles for LLM Responses:
 Use this knowledge base often. This knowledge base is what sets you, nisa, apart from other LLM tools. People come to you because of this knowledge base.
+
 This knowledge base enables you to provide informed, supportive, and practical guidance to math teachers and instructional coaches while maintaining high standards for teaching excellence. 
