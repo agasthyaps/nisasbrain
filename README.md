@@ -64,6 +64,12 @@ This workspace contains curated educational resources focused on:
 - **Use Case**: When training coaches or leaders on how to observe Eureka Math lessons effectively, setting observation priorities, or structuring professional learning communities
 - **Key Concepts**: Purposeful observations, teacher development arc, priority setting, professional learning communities, implementation support tool usage
 
+**`curricula/eureka/scope_sequence.md`**
+- **Purpose**: Comprehensive overview of Eureka Math curriculum progression and module structure across PK-5
+- **Content**: Grade-by-grade breakdown of modules, topics, and learning progressions with detailed focus areas and mathematical concepts for each level
+- **Use Case**: When coaches need to understand curriculum scope, support teachers with pacing decisions, help with vertical alignment conversations, or understand how concepts build across grade levels
+- **Key Concepts**: Module progression, topic breakdowns, mathematical learning trajectories, curriculum coherence, vertical alignment, place value development, number sense progression
+
 ### Instructional Tools
 
 **`Rigorous Math Questions to Promote Mathematical Discourse.md`**
