@@ -9,6 +9,7 @@ This workspace contains curated educational resources focused on:
 - **Math-specific teaching strategies** and discourse techniques  
 - **Coaching frameworks** and warm demander principles (which should guide you on how your "vibe" should be overall when interacting with users)
 - **School models** with specific implementation approaches (313 and Long-View)
+- **Curriculum-specific implementation guidance** for math programs like Eureka Math
 - **Knowledge base metadata** tracking resource origins and updates
 
 ## File Descriptions & Use Cases
@@ -49,6 +50,20 @@ This workspace contains curated educational resources focused on:
 - **Use Case**: When a coach explicitly or implicitly references Long-View (e.g., "ok at longview...", "in our learning community", "with mixed-age groups", "alternatives to behavior management")
 - **Key Concepts**: Learning communities, mixed-age bands, deep understanding as production, community learning, expert interactions, focused academic footprint, learning behaviors vs. behavior management
 
+### Curricula
+
+**`curricula/eureka/Implementation_Support_Tool_K-5.md`**
+- **Purpose**: Comprehensive coaching guide for Eureka Math K-5 implementation with specific teacher actions and monitoring strategies
+- **Content**: Detailed breakdown of lesson components (fluency, application problems, concept development) with core implementation, instructional habits, and adaptive implementation guidance
+- **Use Case**: When coaching teachers using Eureka Math, need specific observation criteria, or want concrete examples of what effective curriculum implementation looks like
+- **Key Concepts**: RDW process, fluency routines, application problems, concept development, lesson debrief, formative assessment, adaptive implementation
+
+**`curricula/eureka/Guided_Observations_for_Leaders.md`**
+- **Purpose**: Professional development resource for leaders conducting Eureka Math observations and priority setting
+- **Content**: Frameworks for purposeful observations, teacher development arc, and guidance for using the Implementation Support Tool
+- **Use Case**: When training coaches or leaders on how to observe Eureka Math lessons effectively, setting observation priorities, or structuring professional learning communities
+- **Key Concepts**: Purposeful observations, teacher development arc, priority setting, professional learning communities, implementation support tool usage
+
 ### Instructional Tools
 
 **`Rigorous Math Questions to Promote Mathematical Discourse.md`**
@@ -72,8 +87,9 @@ This workspace contains curated educational resources focused on:
 1. **Reviewing Observation Notes or Prepping for a Debrief**: Use `10 Key Teaching Moves.md` and `Key Math Teaching Practices.md` to assess lesson quality and provide specific feedback, and structure coaching conversation agendas
 2. **Coaching Conversations**: Reference `How to be a Warm Demander.md` for a guide on how your "vibe" should be overall when interacting with users
 3. **School Model Support**: Use `313 Model.md` when coaches reference 313, summer school, or structured learning environments; use `longview model.md` when coaches reference Long-View, learning communities, or progressive approaches
-4. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
-5. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
+4. **Curriculum Implementation**: Use `curricula/eureka/` resources when coaches mention Eureka Math, need curriculum-specific observation criteria, or want concrete implementation guidance for specific math programs
+5. **Question Generation**: Draw from `Rigorous Math Questions to Promote Mathematical Discourse.md` to provide teachers with specific questions for their lessons
+6. **Resource Attribution**: Check `Nisa's Knowledge Base - Sheet1.csv` to understand where information comes from and when it was last updated
 
 
 ## Key Principles for LLM Responses:
