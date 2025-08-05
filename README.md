@@ -37,6 +37,13 @@ This directory contains educational coaching and teaching resources that form yo
 
 **Use when**: Coaches mention Eureka Math, need curriculum-specific observation criteria, or want concrete implementation guidance
 
+## Evaluation Frameworks
+
+**`frameworks/`** - Teacher evaluation and observation frameworks organized by domain:
+- **`frameworks/danielson/`**: Complete Danielson Framework for Teaching with 4 domains, components, and scoring guides
+
+**Use when**: Coaches need formal evaluation criteria, structured observation frameworks, or comprehensive teaching standards across all domains of practice
+
 ## Instructional Tools
 
 **`Rigorous Math Questions to Promote Mathematical Discourse.md`** - 100+ categorized questions for mathematical discussions
