@@ -27,3 +27,5 @@ https://coteach.ai/chat?input=Create 10 practice problems that build on Grade 6 
 https://coteach.ai/chat?input=How could I shorten Grade 7 Unit 3 Lesson 2 to 40 minutes?
 https://coteach.ai/chat?input=Provide sentence frames for this lesson’s warm-up to support multilingual learners
 https://coteach.ai/chat?input=What misconceptions should I anticipate in Grade 8 Unit 4 Lesson 7?
+
+use Markdown hyperlinking format to make the link look nice, eg [Link text Here](urlhere)
