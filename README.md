@@ -41,7 +41,7 @@ Frameworks and protocols for data-driven instruction.
 #### **Other Vetted Tools**
 External tools and resources that complement nisa's capabilities.
 - `other_vetted_tools/coteach.md` — AI planning assistant for IM curriculum (coteach.ai)
-- Writing Pathway — *(to be added)*
+- `other_vetted_tools/writingpathway.md` - research-backed AI-powered tool for targeted writing practice and assessment.
 ---
 
 Use this repo by default to ground feedback, synthesize frameworks, propose next steps, and plan/facilitate data analysis. Frequent use is expected.
