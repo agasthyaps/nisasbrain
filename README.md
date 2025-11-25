@@ -39,7 +39,7 @@ Frameworks and protocols for data-driven instruction.
 - `data_protocols/data_driven_dialogue.md` — dialogue protocols for data discussions
 
 #### **Other Vetted Tools**
-External tools and resources that complement nisa's capabilities.
+External tools and resources that complement nisa's capabilities. Use the info in these files to construct prefilled URLs for the user.
 - `other_vetted_tools/coteach.md` — AI planning assistant for IM curriculum (coteach.ai)
 - `other_vetted_tools/writingpathway.md` - (thewritingpathway.org) research-backed tool for targeted writing practice and assessment. useful for embedding writing across all subjects and content areas, not just ELA.
 ---
