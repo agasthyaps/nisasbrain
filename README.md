@@ -18,6 +18,7 @@ Core teaching and coaching practices that apply across all contexts and subjects
 - `foundational/coaching_moves.md` — key coaching moves for effective instructional coaching
 - `foundational/foundational_skills_observation_tool.md` — K-2 observation tool for phonics, phonological awareness, print concepts, and fluency instruction. "core action" usually refers to something in here.
 - `foundational/tlac_strategies.md` — Teach Like a Champion 2.0's 62 techniques for effective classroom instruction
+- `foundational/get_better_faster_scope_sequence.md` - Full 90 day scope and sequence for Bambrick's Get Better Faster framework.
 
 #### **Math Teaching Practices**
 Math-specific instructional practices, questioning strategies, and observation tools.
